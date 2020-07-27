@@ -3,6 +3,8 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart: I'm currently studying linear algebra for ML/DL in a simple course, and improving my skills in working with big data and its processing and visualization
+:dart: I'm currently studying linear algebra for ML/DL in a simple course, and improving my skills in working with big data and its processing and visualization.
 
 :ballot_box_with_check: I'm currently participating at [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection) and [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification) Kaggle competitions.
+
+![alt text](https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700356986.jpg)
