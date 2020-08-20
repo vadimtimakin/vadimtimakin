@@ -11,6 +11,8 @@
 
 :calendar: Next goals: learn web development, learn more about NLP, start practicing in competitive programming.
 
+**You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**
+
 ### Connect with me (social media and public profiles): 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -38,7 +40,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://i2.wp.com/opensourceforu.com/wp-content/uploads/2017/01/Illustration-2D-Plotting.jpg?fit=1196%2C1196&ssl=1" />
 <img align="left" alt="GitHub" width="26px" src="https://yt3.ggpht.com/a/AATXAJzI6aD2dQnRgWJFYZk_HNeALJsIoYYt6qC8QKsz=s900-c-k-c0xffffffff-no-rj-mo" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-images-1.medium.com/max/1000/1*PW6-aildLxUPlZcvLtJtEg.jpeg" />  
-
+  
 [kaggle]: https://www.kaggle.com/vadimtimakin
 [twitter]: https://twitter.com/de_toefL
 [telegram]: https://t.me/t0efL
