@@ -10,7 +10,7 @@
 
 :bulb: I'm currently improving my fast typing skills.
 
-:calendar: Next goals: learn web development, learn more about NLP, start practicing in competitive programming.
+:calendar: Next goal: learn web development.
 
 **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**
 
