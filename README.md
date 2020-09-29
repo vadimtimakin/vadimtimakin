@@ -3,7 +3,7 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart: I'm currently practicing competitive programming in [LeetCode](https://leetcode.com).
+:dart: I'm currently practicing competitive programming in [LeetCode](https://leetcode.com) and [CodeForces](https://codeforces.com/).
 
 :ballot_box_with_check: I'm currently participating at [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine)
  Kaggle competition.
