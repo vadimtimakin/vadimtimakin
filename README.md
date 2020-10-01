@@ -22,6 +22,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 `// preferably Telegram`
   
@@ -31,3 +32,4 @@
 [discord]: https://discord.com/users/428140617495871489
 [linkedin]: https://www.linkedin.cn/in/vadim-timakin-6298b91b6/
 [leetcode]: https://leetcode.com/toefl/
+[codeforces]: https://codeforces.com/profile/toefL
