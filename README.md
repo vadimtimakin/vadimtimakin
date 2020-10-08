@@ -5,7 +5,7 @@
 
 :dart: I'm currently practicing competitive programming in [LeetCode](https://leetcode.com) and [CodeForces](https://codeforces.com/).
 
-:ballot_box_with_check: I'm currently participating at [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine)
+:ballot_box_with_check: I'm currently participating at [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
  Kaggle competition.
 
 :bulb: I'm currently improving my fast typing skills.
