@@ -7,3 +7,4 @@
 6. [Kaggle-Kernels](https://github.com/t0efL/Kaggle-Kernels) - The set of my public Kaggle kernels with descriptions and links. [ENG]
 7. [Multplication-Table-ENG](https://github.com/t0efL/Multplication-Table-ENG) - Multiplication table creator (custom numbers). [ENG]
 8. [Multiplication-Table-RU](https://github.com/t0efL/Multiplication-Table-RU) - Multiplication table creator (custom numbers). [RU]
+9. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. [ENG]
