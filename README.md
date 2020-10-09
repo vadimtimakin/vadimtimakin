@@ -3,7 +3,7 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart: I'm currently practicing competitive programming in [LeetCode](https://leetcode.com) and [CodeForces](https://codeforces.com/).
+:dart: I'm currently practicing competitive programming in [LeetCode](https://leetcode.com) and [CodeForces](https://codeforces.com/). I'm currently taking Deep Learning School by MIPT course (2nd part, NLP) as well.
 
 :ballot_box_with_check: I'm currently participating at [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
  Kaggle competition.
