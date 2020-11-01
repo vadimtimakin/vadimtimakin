@@ -26,6 +26,8 @@
 
 `// preferably Telegram`
   
+**ODS slack:** `@toefL`
+
 [kaggle]: https://www.kaggle.com/vadimtimakin
 [twitter]: https://twitter.com/de_toefL
 [telegram]: https://t.me/t0efL
