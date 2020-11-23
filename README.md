@@ -9,7 +9,7 @@
 
 :bulb: I'm currently improving my fast typing skills.
 
-:calendar: Next goal: learn web development.
+:calendar: Next goal: write my own pipeline.
 
 **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**
 
