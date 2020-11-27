@@ -5,7 +5,7 @@
 
 :dart: I'm currently practicing competitive programming in [CodeForces](https://codeforces.com/). I'm currently taking Deep Learning School by MIPT course (2nd part, NLP) as well.
 
-:ballot_box_with_check: I'm currently participating at [Digital Petr](https://ods.ai/competitions/aij-petr) competition.
+:ballot_box_with_check: I'm currently participating at [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa) competition.
 
 :bulb: I'm currently improving my fast typing skills.
 
