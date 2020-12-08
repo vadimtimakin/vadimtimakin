@@ -1,4 +1,5 @@
 ### Here is the list of my projects and repositories with its description:
+1. [2nd-place-solution-Digital-Peter](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - 2nd place Solution for Digital Peter competition. [ENG]
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. [ENG]  
 2. [Style-Transfer-Telegram-Bot](https://github.com/t0efL/Style-Transfer-Telegram-Bot) - Style Transfer Telegram Bot based on GAN + AWS deploy tutorial. [ENG]  
 3. [white2black-GAN](https://github.com/t0efL/white2black-GAN) - white2black for T-shirts Cycle GAN (weights included). [ENG]  
