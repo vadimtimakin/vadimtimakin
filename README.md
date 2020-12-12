@@ -9,7 +9,7 @@
 
 :bulb: I'm currently improving my fast typing skills.
 
-:calendar: Next goal: write my own PyTorch pipeline for Kaggle Competition.
+:calendar: Next goal: take a high place in the Kaggle competition.
 
 **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**
 
