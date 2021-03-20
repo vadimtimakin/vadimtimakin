@@ -3,7 +3,7 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart:  I'm currently participating at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) competition.
+:dart:  I'm currently participating at [Indoor Location & Navigation](https://www.kaggle.com/c/indoor-location-navigation) competition.
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/t0efL/Cassava-Leaf-Disease-Classification).
 
