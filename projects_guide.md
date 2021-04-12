@@ -9,5 +9,5 @@
 8. [Multplication-Table-ENG](https://github.com/t0efL/Multplication-Table-ENG) - Multiplication table creator (custom numbers). [ENG]
 9. [Multiplication-Table-RU](https://github.com/t0efL/Multiplication-Table-RU) - Multiplication table creator (custom numbers). [RU]
 10. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. [ENG]
-11. [Cassava-Leaf-Disease-Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - solution for the Cassava Leaf Disease Classification competition + reproducible classification pipeline.
-12. [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for AI Blitz #7 + Community Contribution Award
+11. [Cassava-Leaf-Disease-Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - solution for the Cassava Leaf Disease Classification competition + reproducible classification pipeline. [ENG]
+12. [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for AI Blitz #7 + Community Contribution Award. [ENG]
