@@ -11,3 +11,4 @@
 10. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. [ENG]
 11. [Cassava-Leaf-Disease-Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - solution for the Cassava Leaf Disease Classification competition + reproducible classification pipeline. [ENG]
 12. [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for AI Blitz #7 + Community Contribution Award. [ENG]
+13. [BMS-Molecular-Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - solution for the Bristol-Myers Squibb – Molecular Translation competition. [ENG]
