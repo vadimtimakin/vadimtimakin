@@ -3,9 +3,9 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart:  I'm currently participating at [Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation/discussion/232027) competition.
+:dart:  I'm currently participating at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection) competition.
 
-:ballot_box_with_check: My last competition solution is [here](https://github.com/t0efL/AI-Blitz-1st-place).
+:ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
 
 :bulb: I'm currently improving my fast typing skills.
 
