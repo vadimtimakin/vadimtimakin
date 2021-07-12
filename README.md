@@ -5,7 +5,7 @@
 
 :hammer: I'm currently developing an MLOps platform for convenient model training and deployment.
 
-:dart:  I'm currently participating at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection) competition.
+:dart:  I'm currently participating at [AIIJC Inclusive environment Task](https://aiijc.com/en/task/1064/) competition.
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
 
