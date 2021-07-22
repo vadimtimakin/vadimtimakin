@@ -9,7 +9,7 @@
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
 
-:bulb: I'm currently improving my fast typing skills.
+:bulb: I'm currently learning driving.
 
 :calendar: Next goal: take a high place in the Kaggle competition.
 
