@@ -11,8 +11,6 @@
 
 :bulb: I'm currently learning driving.
 
-:calendar: Next goal: 100 solved problems on LeetCode.
-
 **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
 **You can find my resume [here](http://tiny.cc/60lauz).**
 
