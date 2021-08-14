@@ -3,8 +3,6 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:hammer: I'm currently developing an MLOps platform for convenient model training and deployment.
-
 :dart:  I'm currently participating at [AIIJC Inclusive environment Task](https://aiijc.com/en/task/1064/) and [SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/c/seti-breakthrough-listen) competitions.
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
