@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**You can find my resume [here](http://tiny.cc/60lauz).**
+**You can find my resume [here](http://tiny.cc/60lauz).** (awaiting update, 3 last competitions are missing)
 
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
