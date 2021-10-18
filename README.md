@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+**You can find my resume [here](http://tiny.cc/60lauz).**
+
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
@@ -10,7 +12,6 @@
 :bulb: I'm currently learning driving.
 
 **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
-**You can find my resume [here](http://tiny.cc/60lauz).**
 
 ### Connect with me (social media and public profiles): 
 
