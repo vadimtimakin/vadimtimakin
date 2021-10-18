@@ -3,7 +3,7 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
-:dart:  I'm currently participating at [AIIJC Inclusive environment Task](https://aiijc.com/en/task/1064/) and [Google Landmark Recognition 2021](https://www.kaggle.com/c/landmark-recognition-2021) competitions.
+:dart:  I'm currently participating at [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview/timeline) competition.
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
 
