@@ -5,6 +5,8 @@
 :fire: My last open source project is [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer)
 (A utility for sorting, filtering, and transformation of datasets).
 
+:medical_symbol: I'm interested in medical and biological competitions.
+
 :dart:  I'm currently participating at [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview/timeline) competition.
 
 :ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
