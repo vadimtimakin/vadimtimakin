@@ -13,4 +13,4 @@
 12. [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for AI Blitz #7 + Community Contribution Award. [ENG]
 13. [BMS-Molecular-Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - The solution for the Bristol-Myers Squibb – Molecular Translation competition. [ENG]
 14. [Kaggle-Google-Landmark](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark competitons. [ENG]  
-15. [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. 
+15. [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. [ENG]
