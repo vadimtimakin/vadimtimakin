@@ -7,7 +7,7 @@
 
 :medical_symbol: I'm interested in medical and biological competitions.
 
-:dart:  I'm currently participating at [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview/timeline) competition.
+:dart:  I'm currently participating taking a break.
 
 :ballot_box_with_check: My last competition solution is [here](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791).
 
