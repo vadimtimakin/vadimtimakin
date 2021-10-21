@@ -9,7 +9,7 @@
 
 :dart:  I'm currently participating at [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/overview/timeline) competition.
 
-:ballot_box_with_check: My last competition solution is [here](https://github.com/xzcodes/BMS-Molecular-Translation).
+:ballot_box_with_check: My last competition solution is [here](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791).
 
 :bulb: I'm currently learning driving.
 
