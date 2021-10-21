@@ -9,7 +9,7 @@
 8. [Multplication-Table-ENG](https://github.com/t0efL/Multplication-Table-ENG) - Multiplication table creator (custom numbers). [ENG]
 9. [Multiplication-Table-RU](https://github.com/t0efL/Multiplication-Table-RU) - Multiplication table creator (custom numbers). [RU]
 10. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. [ENG]
-11. [Vaccine-Degradation-Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - The solution for the OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction competition.
+11. [Vaccine-Degradation-Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - The solution for the OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction competition. [ENG]
 12. [Cassava-Leaf-Disease-Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - The solution for the Cassava Leaf Disease Classification competition + reproducible classification pipeline. [ENG]
 13. [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for the AI Blitz #7 + Community Contribution Award. [ENG]
 14. [BMS-Molecular-Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - The solution for the Bristol-Myers Squibb – Molecular Translation competition. [ENG]
