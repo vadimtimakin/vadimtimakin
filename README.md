@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-**You can find my resume [here](https://drive.google.com/file/d/1lQcUwtA7kHr9YniO9zlIfd3GwBfRE98G/view?usp=sharing).**
+:dart: **You can find my resume [here](https://drive.google.com/file/d/1lQcUwtA7kHr9YniO9zlIfd3GwBfRE98G/view?usp=sharing).**
 
-**You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
+:bulb: **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
 
-### Connect with me (social media and public profiles): 
+📫 **Connect with me (social media and public profiles):** 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
@@ -15,7 +15,7 @@
 
 `// preferably Telegram`
   
-**ODS slack:** `@toefL`
+**ODS slack:** `@toefL` | **Mail:** `vad.timakin@yandex.ru`
 
 [kaggle]: https://www.kaggle.com/vadimtimakin
 [twitter]: https://twitter.com/de_toefL
