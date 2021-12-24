@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-:dart: **You can find my resume [here](https://drive.google.com/file/d/1lQcUwtA7kHr9YniO9zlIfd3GwBfRE98G/view?usp=sharing).**
+:dart: **You can find my resume [here](http://tiny.cc/vadim_timakin).**
 
 :bulb: **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
 
