@@ -7,6 +7,7 @@
 3. [9 / 1555] [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. 
 4. [66 / 383] [Google-Landmark-Recognition](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Recognition competiton. 
 5. [77 / 263] [Google-Landmark-Retrieval](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Retrieval competiton. 
+6. [81 / 1588] [kaggle-happy-whale](https://github.com/t0efL/kaggle-happy-whale) - The solution and code for the Happywhale - Whale and Dolphin Identification competition.  
 6. [82 / 930] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified public notebook to achieve the best score.
 7. [83 / 874] [BMS-Molecular-Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - The solution for the Bristol-Myers Squibb – Molecular Translation competition. 
 8. [95 / 1636] [Vaccine-Degradation-Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - The solution for the OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction competition. 
