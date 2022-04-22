@@ -3,6 +3,7 @@
 #### Competititions:
 1. [1 / 280] [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The 1st place solution for the AI Blitz #7 + Community Contribution Award.   
 2. [2 / 77] [2nd-place-solution-Digital-Peter](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - The 2nd place Solution for Digital Peter competition.  
+3. [3 / 50 finalists] [NTO AI 2022](https://ods.ai/competitions/nto_final_21-22) - *code and paper are under construction*.
 3. [9 / 1555] [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. 
 4. [66 / 383] [Google-Landmark-Recognition](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Recognition competiton. 
 5. [77 / 263] [Google-Landmark-Retrieval](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Retrieval competiton. 
