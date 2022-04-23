@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-:dart: **[Resume](http://tiny.cc/vadim_timakin) | [Projects](https://github.com/t0efL/t0efL/blob/master/projects_guide.md)** :bulb:
+:dart: **[RESUME](http://tiny.cc/vadim_timakin) | [PROJECTS](https://github.com/t0efL/t0efL/blob/master/projects_guide.md)** :bulb:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
