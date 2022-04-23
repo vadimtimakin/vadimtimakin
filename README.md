@@ -1,10 +1,6 @@
 ### Hi there! 👋
 
-:dart: **You can find my resume [here](http://tiny.cc/vadim_timakin).**
-
-:bulb: **You can find the list of my projects [here](https://github.com/t0efL/t0efL/blob/master/projects_guide.md).**  
-
-📫 **Connect with me (social media and public profiles):** 
+:dart: **[Resume](http://tiny.cc/vadim_timakin) | [Projects](https://github.com/t0efL/t0efL/blob/master/projects_guide.md)** :bulb:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
