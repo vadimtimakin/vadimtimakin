@@ -4,7 +4,7 @@
 1. [1 / 280] [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The solution for the AI Blitz #7 + Community Contribution Award.   
 2. [2 / 77] [2nd-place-solution-Digital-Peter](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - The solution for the Digital Peter competition.  
 3. [3 / 50 finalists] [NTO AI Olympics 2022](https://ods.ai/competitions/nto_final_21-22) - *code and paper are under construction*.
-4. [3 / 28 finalists] [NTO BDIMO Olympics 2022]([https://ods.ai/competitions/nto_final_21-22](https://github.com/t0efL/NTO-BDIMO-Olympics-2022)) - The code for the best submissions and side files for the NTO BDIMO Olympics 2022 competition.
+4. [3 / 28 finalists] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - The code for the best submissions and side files for the NTO BDIMO Olympics 2022 competition.
 3. [9 / 1555] [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. 
 4. [28 / 642] [Kaggle-IMC-solution](https://github.com/t0efL/Kaggle-IMC-solution) - The solution and code for the Image Matching Challenge 2022 competition.
 5. [66 / 383] [Google-Landmark-Recognition](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Recognition competiton. 
