@@ -1,19 +1,19 @@
 ### Here is the list of my projects with its description.
 
 #### Competititions:
-1. [1 / 280] [AI-Blitz-1st-place](https://github.com/t0efL/AI-Blitz-1st-place) - The solution for the AI Blitz #7 + Community Contribution Award.   
-2. [2 / 77] [2nd-place-solution-Digital-Peter](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - The solution for the Digital Peter competition.  
+1. [1 / 280] [AI Blitz #7](https://github.com/t0efL/AI-Blitz-1st-place) - Solution + Code + Community Contribution Award notebook.   
+2. [2 / 77] [AIJJ 2020 Digital Petr track](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - Solution + Code.  
 3. [3 / 50 finalists] [NTO AI Olympics 2022](https://ods.ai/competitions/nto_final_21-22) - *code and paper are under construction*.
-4. [3 / 28 finalists] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - The code for the best submissions and side files for the NTO BDIMO Olympics 2022 competition.
-3. [9 / 1555] [RSNA-Brain-Tumor-Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - The solution for the RSNA-MICCAI Brain Tumor Radiogenomic Classification. 
-4. [28 / 642] [Kaggle-IMC-solution](https://github.com/t0efL/Kaggle-IMC-solution) - The solution and code for the Image Matching Challenge 2022 competition.
-5. [66 / 383] [Google-Landmark-Recognition](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Recognition competiton. 
-6. [77 / 263] [Google-Landmark-Retrieval](https://github.com/t0efL/Kaggle-Google-Landmark) - The solution and code for the Google Landmark Retrieval competiton. 
-7. [81 / 1588] [kaggle-happy-whale](https://github.com/t0efL/kaggle-happy-whale) - The solution and code for the Happywhale - Whale and Dolphin Identification competition.  
-8. [82 / 930] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified public notebook to achieve the best score.
-9. [83 / 874] [BMS-Molecular-Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - The solution for the Bristol-Myers Squibb – Molecular Translation competition. 
-10. [95 / 1636] [Vaccine-Degradation-Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - The solution for the OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction competition. 
-11. [Much effort, but noisy LB] [Cassava-Leaf-Disease-Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - The solution for the Cassava Leaf Disease Classification competition + reproducible classification pipeline. 
+4. [3 / 28 finalists] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - Code.
+3. [9 / 1555] [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - Solution. 
+4. [28 / 642] [Image Matching Challenge 2022](https://github.com/t0efL/Kaggle-IMC-solution) - Solution + code.
+5. [66 / 383] [Google Landmark Recognition 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
+6. [77 / 263] [Google Landmark Retrieval 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
+7. [81 / 1588] [Happywhale - Whale and Dolphin Identification](https://github.com/t0efL/kaggle-happy-whale) - Solution + code.  
+8. [82 / 930] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified a public notebook to achieve the best score.
+9. [83 / 874] [Bristol-Myers Squibb – Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - Solution + code. 
+10. [95 / 1636] [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - Solution. 
+11. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
 #### Personal projects:
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. 
