@@ -11,6 +11,7 @@
 6. [77 / 263] [Google Landmark Retrieval 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
 7. [81 / 1588] [Happywhale - Whale and Dolphin Identification](https://github.com/t0efL/kaggle-happy-whale) - Solution + code.  
 8. [82 / 930] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified a public notebook to achieve the best score.
+9. [83 / 1889] [U.S. Patent Phrase to Phrase Matching ](https://github.com/t0efL/Patent-Matching-Kaggle) - Solution + code.
 9. [83 / 874] [Bristol-Myers Squibb – Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - Solution + code. 
 10. [95 / 1636] [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - Solution. 
 11. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
