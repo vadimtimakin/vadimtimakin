@@ -3,7 +3,7 @@
 #### Competititions:
 1. [1 / 280] [AI Blitz #7](https://github.com/t0efL/AI-Blitz-1st-place) - Solution + Code + Community Contribution Award notebook.   
 2. [2 / 77] [AIJJ 2020 Digital Petr track](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - Solution + Code.  
-3. [3 / 50 finalists] [NTO AI Olympics 2022]([https://ods.ai/competitions/nto_final_21-22](https://github.com/t0efL/end2end-HKR-research)) - Solution + Code.
+3. [3 / 50 finalists] [NTO AI Olympics 2022](https://github.com/t0efL/end2end-HKR-research) - Solution + Code.
 4. [3 / 28 finalists] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - Code.
 3. [9 / 1555] [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - Solution. 
 4. [28 / 642] [Image Matching Challenge 2022](https://github.com/t0efL/Kaggle-IMC-solution) - Solution + code.
