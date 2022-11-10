@@ -10,16 +10,16 @@
 <table border="5" cellspacing="15" cellpadding="0">
 <tbody>
   <tr>
-    <td width="175">
+    <td width="150">
         <a href="https://github.com/t0efL/t0efL/blob/master/photo.jpg"><img alt="Vadim Timakin" src="https://github.com/t0efL/t0efL/blob/master/photo.jpg" width="160" border="1"></a>
     </td>
-    <td width="300">
+    <td width="230">
     <p> 
         I am Vadim Timakin, a Machine Learning Engineer with more than 3 years of experience. I'm also the youngest Kaggle Competitions Master in CIS. 
         I'm currently pursuing my Computer Science bachelor degree at <a href="https://en.misis.ru/">The National University of Science and Technology MISIS</a>.
     </p>
     </td>
-    <td width="175">
+    <td width="150">
         <p align="left"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vadimtimakin/competition" alt="Vadim Timakin" /> </p>
     </td>
    </tr>
