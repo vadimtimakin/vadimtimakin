@@ -7,7 +7,7 @@
   <a href="https://t.me/t0efL"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="25px"> </a>
 </p> 
   
-<table border="5" cellspacing="15" cellpadding="0">
+<table border="5" cellspacing="15" cellpadding="0" border_style="ridge">
 <tbody>
   <tr>
     <td width="150">
