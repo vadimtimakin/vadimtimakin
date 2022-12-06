@@ -26,3 +26,7 @@
 7. [Multplication-Table-ENG](https://github.com/t0efL/Multplication-Table-ENG) - Multiplication table creator (custom numbers). 
 8. [Multiplication-Table-RU](https://github.com/t0efL/Multiplication-Table-RU) - Multiplication table creator (custom numbers). 
 9. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. 
+
+#### Hackathons:
+1. Go Code Hack - 1st place (MISIShunters)
+2. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters)
