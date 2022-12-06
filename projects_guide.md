@@ -28,5 +28,5 @@
 9. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. 
 
 #### Hackathons:
-1. Go Code Hack - 1st place (MISIShunters)
-2. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters)
+1. Go Code Hack - 1st place (MISIShunters).
+2. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters).
