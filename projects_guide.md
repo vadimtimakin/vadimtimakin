@@ -16,6 +16,11 @@
 10. [95 / 1636] [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - Solution. 
 11. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
+#### Hackathons:
+1. TenderHack Moscow - 1st place (Baby Kagglers).
+2. Go Code Hack - 1st place (MISIShunters).
+3. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters).
+
 #### Personal projects:
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. 
 2. [Style-Transfer-Telegram-Bot](https://github.com/t0efL/Style-Transfer-Telegram-Bot) - Style Transfer Telegram Bot based on GAN + AWS deploy tutorial. 
@@ -26,7 +31,3 @@
 7. [Multplication-Table-ENG](https://github.com/t0efL/Multplication-Table-ENG) - Multiplication table creator (custom numbers). 
 8. [Multiplication-Table-RU](https://github.com/t0efL/Multiplication-Table-RU) - Multiplication table creator (custom numbers). 
 9. [Price-Evaluator-Bot](https://github.com/t0efL/Price-Evaluator-Bot) - Telegram bot that predicts the cost of clothing by an image. The project for the hackathon by ODS. 
-
-#### Hackathons:
-1. Go Code Hack - 1st place (MISIShunters).
-2. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters).
