@@ -10,10 +10,10 @@
 <table border="5" cellspacing="15" cellpadding="0" border_style="ridge">
 <tbody>
   <tr>
-    <td width="150">
-        <a href="https://github.com/t0efL/t0efL/blob/master/photo.jpg"><img alt="Vadim Timakin" src="https://github.com/t0efL/t0efL/blob/master/photo.jpg" width="160" border="1"></a>
+    <td width="200">
+        <a href="https://github.com/t0efL/t0efL/blob/master/image.jpg"><img alt="Vadim Timakin" src="https://github.com/t0efL/t0efL/blob/master/image.jpg" width="160" border="1"></a>
     </td>
-    <td width="270">
+    <td width="350" align="center">
     <p> 
         I am Vadim Timakin, a Machine Learning Engineer with more than 3 years of experience. I'm also the youngest Kaggle Competitions Master in CIS. 
         I'm currently pursuing my Computer Science bachelor degree at <a href="https://en.misis.ru/">The National University of Science and Technology MISIS</a>.
