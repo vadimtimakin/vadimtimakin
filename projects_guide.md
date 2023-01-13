@@ -1,24 +1,24 @@
 ### Here is the list of my projects with its description.
 
 #### Competititions:
-1. [1 / 280] [AI Blitz #7](https://github.com/t0efL/AI-Blitz-1st-place) - Solution + Code + Community Contribution Award notebook.   
-2. [2 / 77] [AIJJ 2020 Digital Petr track](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - Solution + Code.  
-3. [3 / 50 finalists] [NTO AI Olympics 2022](https://github.com/t0efL/end2end-HKR-research) - Solution + Code.
-4. [3 / 28 finalists] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - Code.
-3. [9 / 1555] [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - Solution. 
-4. [28 / 642] [Image Matching Challenge 2022](https://github.com/t0efL/Kaggle-IMC-solution) - Solution + code.
-5. [66 / 383] [Google Landmark Recognition 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
-6. [77 / 263] [Google Landmark Retrieval 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
-7. [81 / 1588] [Happywhale - Whale and Dolphin Identification](https://github.com/t0efL/kaggle-happy-whale) - Solution + code.  
-8. [82 / 930] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified a public notebook to achieve the best score.
-9. [83 / 1889] [U.S. Patent Phrase to Phrase Matching ](https://github.com/t0efL/Patent-Matching-Kaggle) - Solution + code.
-9. [83 / 874] [Bristol-Myers Squibb – Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - Solution + code. 
-10. [95 / 1636] [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - Solution. 
+1. [**1 / 280** + *$200*] [AI Blitz #7](https://github.com/t0efL/AI-Blitz-1st-place) - Solution + Code + Community Contribution Award notebook.   
+2. [**2 / 77** + *$5000*] [AIJJ 2020 Digital Petr track](https://github.com/t0efL/2nd-place-solution-Digital-Peter) - Solution + Code.  
+3. [**3 / 50 finalists** + *$10000*] [NTO AI Olympics 2022](https://github.com/t0efL/end2end-HKR-research) - Solution + Code.
+4. [**3 / 28 finalists**] [NTO BDIMO Olympics 2022](https://github.com/t0efL/NTO-BDIMO-Olympics-2022) - Code.
+3. [**9 / 1555**] [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/279826#1549791) - Solution. 
+4. [**28 / 642**] [Image Matching Challenge 2022](https://github.com/t0efL/Kaggle-IMC-solution) - Solution + code.
+5. [**66 / 383**] [Google Landmark Recognition 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
+6. [**77 / 263**] [Google Landmark Retrieval 2021](https://github.com/t0efL/Kaggle-Google-Landmark) - Solution + code. 
+7. [**81 / 1588**] [Happywhale - Whale and Dolphin Identification](https://github.com/t0efL/kaggle-happy-whale) - Solution + code.  
+8. [**82 / 930**] [March Machine Learning Mania 2022 - Men’s](https://www.kaggle.com/competitions/mens-march-mania-2022) - No personal code to share, modified a public notebook to achieve the best score.
+9. [**83 / 1889**] [U.S. Patent Phrase to Phrase Matching ](https://github.com/t0efL/Patent-Matching-Kaggle) - Solution + code.
+9. [**83 / 874**] [Bristol-Myers Squibb – Molecular Translation](https://github.com/xzcodes/BMS-Molecular-Translation) - Solution + code. 
+10. [**95 / 1636**] [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/c/stanford-covid-vaccine/discussion/189173) - Solution. 
 11. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
 #### Hackathons:
-1. TenderHack Moscow - 1st place (Baby Kagglers).
-2. Go Code Hack - 1st place (MISIShunters).
+1. TenderHack Moscow - 1st place + *$5000* (Baby Kagglers).
+2. Go Code Hack - 1st place + *$1000* (MISIShunters).
 3. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters).
 
 #### Personal projects:
