@@ -15,7 +15,7 @@
     </td>
     <td width="350" align="center">
     <p> 
-        I am Vadim Timakin, a Machine Learning Engineer with more than 3 years of experience. I'm also the youngest Kaggle Competitions Master in the CIS and the ODS Awards 2021 winner. 
+        I am Vadim Timakin, a Machine Learning Engineer with more than 3 years of experience. I'm also <a href="https://www.kaggle.com/vadimtimakin">the youngest Kaggle Competitions Master in the CIS</a> and the ODS Awards 2021 winner. 
         I'm currently pursuing my Computer Science bachelor degree at <a href="https://en.misis.ru/">The National University of Science and Technology MISIS</a>.
     </p>
     </td>
