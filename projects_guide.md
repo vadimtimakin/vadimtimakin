@@ -17,9 +17,10 @@
 11. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
 #### Hackathons:
-1. TenderHack Moscow - 1st place + *$5000* (Baby Kagglers).
-2. Go Code Hack - 1st place + *$1000* (MISIShunters).
-3. TenderHack Nizhniy Novgorod - 2nd place (MISIShunters).
+1. TenderHack Moscow - **the 1st place** + *$5000* (Baby Kagglers).
+2. Go Code Hack - **the 1st place** + *$1000* (MISIShunters).
+3. TenderHack Nizhniy Novgorod - **the 2nd place** (MISIShunters).
+4. CyberGarden 2022 - **the 2nd place** (MISISHunters).
 
 #### Personal projects:
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. 
