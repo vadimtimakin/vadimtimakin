@@ -15,7 +15,7 @@
     </td>
     <td width="450" align="center">
     <p> 
-        I am Vadim Timakin, a Machine Learning Engineer with more than 3 years of experience. I'm a Co-Founder of the <a href="https://off.concern/">OffConcern</a> and I'm working there as a Machine Learning Engineer. I'm also <a href="https://www.kaggle.com/vadimtimakin">the youngest Kaggle Competitions Master in the CIS</a> and the ODS Awards 2021 winner. 
+        I am Vadim Timakin, <a href="https://drive.google.com/file/d/1I0AQMc3QEFdJv5ho7Hy5mcK1Lc_b_AMt/view">a Machine Learning Engineer with more than 3 years of experience</a>. I'm a Co-Founder of the <a href="https://off.concern/">OffConcern</a> and I'm working there as a Machine Learning Engineer. I'm also <a href="https://www.kaggle.com/vadimtimakin">the youngest Kaggle Competitions Master in the CIS</a> and the ODS Awards 2021 winner. 
         I'm currently pursuing my Computer Science bachelor degree at <a href="https://en.misis.ru/">The National University of Science and Technology MISIS</a>.
     </p>
    </tr>
