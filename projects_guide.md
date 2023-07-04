@@ -1,4 +1,4 @@
-### Here is the list of my projects with its description.
+### Here is the list of some of my non-comercial projects with its description.
 
 #### Competititions:
 1. [**1 / 280** + *$200*] [AI Blitz #7](https://github.com/t0efL/AI-Blitz-1st-place) - Solution + Code + Community Contribution Award notebook.   
