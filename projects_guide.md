@@ -18,11 +18,13 @@
 13. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
 #### Hackathons:
-1. Leaders of Digital - **the 1st place** + *$5000* (MISIS Slayers)
+1. Leaders of Digital 2023 International - **the 1st place** + *$5000* (MISIS Slayers)
 2. TenderHack Moscow - **the 1st place** + *$5000* (Baby Kagglers).
 3. Go Code Hack - **the 1st place** + *$1000* (MISIShunters).
-4. TenderHack Nizhniy Novgorod - **the 2nd place** (MISIShunters).
-5. CyberGarden 2022 - **the 2nd place** (MISISHunters).
+4. ML Talent Match - **the 2nd place** + *$1000* (MISIS 42).
+5. Leaders of Digital 2024 - **the 2nd place** + *$2000* (MISIS 42).
+6. TenderHack Nizhniy Novgorod - **the 2nd place** (MISIShunters).
+7. CyberGarden 2022 - **the 2nd place** (MISISHunters).
 
 #### Public speaking:
 1. [The road to the Kaggle Competitions Master at the age of 17](https://youtu.be/tg8SSoKFqmA?t=7327) - Yandex, December 2022. 
