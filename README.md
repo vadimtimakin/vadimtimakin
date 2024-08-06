@@ -11,12 +11,9 @@
 <table border="5" cellspacing="15" cellpadding="0" border_style="ridge">
 <tbody>
   <tr>
-    <td width="200">
-        <a href="https://github.com/t0efL/t0efL/blob/master/image.jpg"><img alt="Vadim Timakin" src="https://github.com/t0efL/t0efL/blob/master/image.jpg" width="160" border="1"></a>
-    </td>
-    <td width="400" align="center">
+    <td width="580" align="center">
     <p> 
-        I am Vadim Timakin, a <a href="https://drive.google.com/file/d/1IskQ39zOdoY7WVD7zpdv75DI3T8tagsD/view?usp=sharing">Machine Learning Engineer</a>. I’m interested in designing, building and growing complex systems involving ML and other technologies. I'm currently pursuing my Computer Science bachelor degree at <a href="https://en.misis.ru/">The National University of Science and Technology MISIS</a>. I'm also <a href="https://www.kaggle.com/vadimtimakin">the youngest Kaggle Competitions Master in the CIS</a> and the ODS Awards 2021 winner.
+        I am Vadim Timakin, a Machine Learning Engineer with 5+ years of experience in the field. I'm interested in designing, building and growing complex systems involving ML and other technologies. Besides having a lot of product experience, I also have extensive experience in competitive Data Science - at the age of 17 I became one of the few youngest Kaggle Competitions Masters in the world (Top-300 Worldwide), and the ODS Awards 2021 winner for the best annual progress in competitions in general. I have experience in a large number of areas of classical machine learning and deep learning, as well as in a number of other fields such as finance and blockchain technologies.
     </p>
    </tr>
 </tbody>
