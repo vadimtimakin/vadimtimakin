@@ -1,6 +1,6 @@
 <p>
   <a href="https://vadimtimakin.github.io"> <img src="https://img.shields.io/badge/-More info-blue?style=plastic" height="25px"> </a>
-  <a href="https://drive.google.com/file/d/1LxzEHtzC6AGRQGeEXPox-yakZzcInsxK/view?usp=sharing"> <img src="https://img.shields.io/badge/-CV-yellow?style=plastic" height="25px"> </a>
+  <a href="https://drive.google.com/file/d/1gh2MrWkHFCG9cwcsV9137oXF5I0Bu1cJ/view?usp=sharing"> <img src="https://img.shields.io/badge/-CV-yellow?style=plastic" height="25px"> </a>
   <a href="https://github.com/t0efL/t0efL/blob/master/projects_guide.md"> <img src="https://img.shields.io/badge/-Projects-green?style=plastic" height="25px"> </a>
   <a href="https://www.kaggle.com/vadimtimakin"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25px" alt="Kaggle">
    <a href="https://www.linkedin.com/in/toefl/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
