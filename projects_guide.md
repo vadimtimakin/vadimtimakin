@@ -27,9 +27,6 @@
 6. TenderHack Nizhniy Novgorod - **the 2nd place** (MISIShunters).
 7. CyberGarden 2022 - **the 2nd place** (MISISHunters).
 
-#### Public speaking:
-1. [The road to the Kaggle Competitions Master at the age of 17](https://youtu.be/tg8SSoKFqmA?t=7327) - Yandex, December 2022. 
-
 #### Personal projects:
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. 
 2. [Style-Transfer-Telegram-Bot](https://github.com/t0efL/Style-Transfer-Telegram-Bot) - Style Transfer Telegram Bot based on GAN + AWS deploy tutorial. 
