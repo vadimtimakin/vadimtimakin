@@ -13,7 +13,10 @@
   <tr>
     <td width="580" align="center">
     <p> 
-        I am Vadim Timakin, a Machine Learning Engineer with 5+ years of experience in the field. I'm interested in designing, building and growing complex systems involving ML and other technologies. Besides having a lot of product experience, I also have extensive experience in competitive Data Science - at the age of 17 I became one of the few youngest Kaggle Competitions Masters in the world (Top-300 Worldwide), and the ODS Awards 2021 winner for the best annual progress in competitions in general. I have experience in a large number of areas of classical machine learning and deep learning, as well as in a number of other fields such as finance and blockchain technologies.
+        I am Vadim Timakin, a Machine Learning Engineer with 5+ years of experience who is interested in designing and building
+complex ML systems. Besides having a lot of product knowledge and experience in a large number of areas of classical
+ML and Deep Learning, I also have an extensive experience in competitive Data Science - I’m holding the title of
+Kaggle Competitions Master with multiple solo golds and the top rankings in dozens of other competitions as well.
     </p>
    </tr>
 </tbody>
