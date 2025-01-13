@@ -19,13 +19,14 @@
 13. [Much effort, but noisy LB] [Cassava Leaf Disease Classification](https://github.com/t0efL/Cassava-Leaf-Disease-Classification) - Solution + code. 
 
 #### Hackathons:
-1. Leaders of Digital 2023 International - **the 1st place** + *$5000* (MISIS Slayers).
-2. TenderHack Moscow - **the 1st place** + *$5000* (Baby Kagglers).
-3. Go Code Hack - **the 1st place** + *$1000* (MISIShunters).
-4. ML Talent Match - **the 1st place** + *$1000* (MISIS 42).
-5. Leaders of Digital 2024 - **the 2nd place** + *$2000* (MISIS 42).
-6. TenderHack Nizhniy Novgorod - **the 2nd place** (MISIShunters).
-7. CyberGarden 2022 - **the 2nd place** (MISISHunters).
+1. Leaders of Digital 2023 International - **the 1st place** + *$5000*.
+2. TenderHack Moscow - **the 1st place** + *$5000*.
+3. Go Code Hack - **the 1st place** + *$1000*).
+4. ML Talent Match - **the 1st place** + *$1000*.
+5. Leaders of Digital 2024 - **the 2nd place** + *$2000*.
+5. FIC Hackathon 2024 - **the 2nd place** + *$1000*.
+6. TenderHack Nizhniy Novgorod - **the 2nd place**.
+7. CyberGarden 2022 - **the 2nd place**.
 
 #### Personal projects:
 1. [Dataset-Fixer](https://github.com/t0efL/Dataset-Fixer) - A utility for sorting, filtering, and transformation of datasets. 
