@@ -13,7 +13,7 @@
   <tr>
     <td width="580" align="center">
     <p> 
-        I am Vadim Timakin, a Machine Learning Engineer with 5+ years of experience who is interested in designing and building
+        I am Vadim Timakin, a Machine Learning Engineer with 6+ years of experience who is interested in designing and building
 complex ML systems. Besides having a lot of product knowledge and experience in a large number of areas of classical
 ML and Deep Learning, I also have an extensive experience in competitive Data Science - I’m holding the title of
 Kaggle Competitions Master with multiple solo golds and the top rankings in dozens of other competitions as well.
